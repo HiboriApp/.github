@@ -1,4 +1,4 @@
-# Hibori Organization
+# Hibori
 
 **Hibori** is an organization dedicated to fostering social connectivity and personal growth. 🌍✨ Our goal is to empower individuals to step outside their comfort zones, engage with diverse communities, and build meaningful relationships. 🤝💬
 
