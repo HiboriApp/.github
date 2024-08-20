@@ -1,6 +1,6 @@
 # Hibori
 
-**Hibori** is an organization dedicated to fostering social connectivity and personal growth. 🌍✨ Our goal is to empower individuals to step outside their comfort zones, engage with diverse communities, and build meaningful relationships. 🤝💬
+**Hibori** is an group dedicated to fostering social connectivity and personal growth. 🌍✨ Our goal is to empower individuals to step outside their comfort zones, engage with diverse communities, and build meaningful relationships. 🤝💬
 
 ## Our Mission
 Our mission is to simplify and enhance the social experience. We create platforms and initiatives designed to inspire people to explore new interests, join groups, and embrace inclusivity. 🚀🌟
