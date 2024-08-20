@@ -14,7 +14,7 @@ Our mission is to simplify and enhance the social experience. We create platform
 We are always on the lookout for enthusiastic individuals to join our mission. Whether you're a developer, designer, or simply someone who resonates with our vision, we'd love to hear from you! 🤝🎨💻
 
 ## Contact Us
-For collaboration opportunities or to learn more about our work, reach out to us at [arirl.elkaslasi@gmail.com](mailto:arirl.elkaslasi@gmail.com). 📧🌟
+For collaboration opportunities or to learn more about our work, reach out to us at [UNDEFINED](UNDEFINED). 📧🌟
 
 ## License
-Our projects are licensed under the MIT License. See the [LICENSE](LICENSE) file for details. 📜🔓
+Our projects are licensed under the MIT License. See the [UNDEFINED](UNDEFINED) file for details. 📜🔓
