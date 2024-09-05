@@ -1,4 +1,4 @@
-# Hibori
+![image](https://github.com/user-attachments/assets/9b4d6080-7bb6-4893-af0e-0d110362e08f)# Hibori
 
 **Hibori** is a company dedicated to building apps and websites that foster social connectivity and personal growth. 🌍✨ Our goal is to empower individuals and businesses by delivering high-quality digital solutions tailored to their needs. 🤝💻
 
@@ -19,6 +19,8 @@ For collaboration opportunities or to learn more about our work, reach out to us
 ## Explore Our Work
 Take a look at one of our many successful projects:
 - [Tech Website Design](techwebsite-hibori.vercel.app)
+- [Modern Website](https://modern-white.vercel.app/)
+
 
 ## License
 Our projects are licensed under the MIT License. See the [LICENSE](INSERT LICENSE LINK) file for details. 📜🔓
