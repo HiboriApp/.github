@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9b4d6080-7bb6-4893-af0e-0d110362e08f)# Hibori
+# Hibori
 
 **Hibori** is a company dedicated to building apps and websites that foster social connectivity and personal growth. 🌍✨ Our goal is to empower individuals and businesses by delivering high-quality digital solutions tailored to their needs. 🤝💻
 
