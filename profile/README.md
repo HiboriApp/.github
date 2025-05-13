@@ -1,6 +1,6 @@
-# 🌐 ReadySetStores
+# 🌐 ReadySetTeams
 
-Welcome to the official GitHub of **ReadySetStores** — a visionary SaaS startup focused on crafting sleek, powerful, and user-friendly web panels for the modern web.
+Welcome to the official GitHub of **ReadySetTeams** — a visionary SaaS startup focused on crafting sleek, powerful, and user-friendly web panels for the modern web.
 
 ---
 
