@@ -47,7 +47,7 @@ We’re just getting started — and we’d love to have you along for the ride.
 
 ---
 
-> **From stores to stories, we’re building digital spaces that matter.**  
+> **We use arch btw**  
 > — The ReadySet Team
 
 ---
